@@ -1,0 +1,14 @@
+eclipse.ini
+.metadata
+Thumbs.db
+*.swp
+*.ipr
+*.iws
+*.iml
+*.DS_Store
+target/
+.idea/
+.idea_modules/
+.project
+.classpath
+.settings
